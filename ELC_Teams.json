@@ -1,0 +1,478 @@
+{
+    "competition": {
+        "id": 2016,
+        "area": {
+            "id": 2072,
+            "name": "England"
+        },
+        "name": "Championship",
+        "code": "ELC",
+        "plan": "TIER_ONE",
+        "lastUpdated": "2019-01-27T11:10:08Z"
+    },
+    "season": {
+        "id": 154,
+        "startDate": "2018-08-03",
+        "endDate": "2019-05-05",
+        "currentMatchday": 29,
+        "winner": null
+    },
+    "teams": [
+        {
+            "id": 58,
+            "area": {
+                "id": 2072,
+                "name": "England"
+            },
+            "name": "Aston Villa FC",
+            "shortName": "Aston Villa",
+            "tla": "AST",
+            "crestUrl": "http://upload.wikimedia.org/wikipedia/de/9/9f/Aston_Villa_logo.svg",
+            "address": "Villa Park Birmingham B6 6HE",
+            "phone": "+44 (0121) 3272299",
+            "website": "http://www.avfc.co.uk",
+            "email": null,
+            "founded": 1872,
+            "clubColors": "Claret / Sky Blue",
+            "venue": "Villa Park",
+            "lastUpdated": "2018-10-15T15:08:15Z"
+        },
+        {
+            "id": 59,
+            "area": {
+                "id": 2072,
+                "name": "England"
+            },
+            "name": "Blackburn Rovers FC",
+            "shortName": "Blackburn Rov",
+            "tla": "BBR",
+            "crestUrl": null,
+            "address": "Ewood Park Blackburn BB2 4JF",
+            "phone": "+44 (0871) 7021875",
+            "website": "http://www.rovers.co.uk",
+            "email": null,
+            "founded": 1874,
+            "clubColors": "Blue / White",
+            "venue": "Ewood Park",
+            "lastUpdated": "2018-10-15T15:08:15Z"
+        },
+        {
+            "id": 60,
+            "area": {
+                "id": 2072,
+                "name": "England"
+            },
+            "name": "Bolton Wanderers FC",
+            "shortName": "Bolton",
+            "tla": "BOL",
+            "crestUrl": null,
+            "address": "Burnden Way Bolton BL6 6JW",
+            "phone": "+44 (0844) 8712932",
+            "website": "http://www.bwfc.co.uk",
+            "email": "reception@bwfc.co.uk",
+            "founded": 1874,
+            "clubColors": "White / Navy Blue",
+            "venue": "Macron Stadium",
+            "lastUpdated": "2018-10-15T15:08:16Z"
+        },
+        {
+            "id": 68,
+            "area": {
+                "id": 2072,
+                "name": "England"
+            },
+            "name": "Norwich City FC",
+            "shortName": "Norwich",
+            "tla": "NOR",
+            "crestUrl": "http://upload.wikimedia.org/wikipedia/de/8/8c/Norwich_City.svg",
+            "address": "Carrow Road Norwich NR1 1JE",
+            "phone": null,
+            "website": "http://www.canaries.co.uk",
+            "email": "reception@ncfc-canaries.co.uk",
+            "founded": 1902,
+            "clubColors": "Yellow / Green",
+            "venue": "Carrow Road",
+            "lastUpdated": "2018-10-15T15:08:19Z"
+        },
+        {
+            "id": 69,
+            "area": {
+                "id": 2072,
+                "name": "England"
+            },
+            "name": "Queens Park Rangers FC",
+            "shortName": "QPR",
+            "tla": "QPR",
+            "crestUrl": "http://upload.wikimedia.org/wikipedia/de/d/d4/Queens_Park_Rangers.svg",
+            "address": "South Africa Road, Shepherds Bush London W12 7PA",
+            "phone": null,
+            "website": "http://www.qpr.co.uk",
+            "email": "qpr@qpr.co.uk",
+            "founded": 1882,
+            "clubColors": "Blue / White",
+            "venue": "Loftus Road Stadium",
+            "lastUpdated": "2018-10-15T15:08:20Z"
+        },
+        {
+            "id": 70,
+            "area": {
+                "id": 2072,
+                "name": "England"
+            },
+            "name": "Stoke City FC",
+            "shortName": "Stoke",
+            "tla": "STO",
+            "crestUrl": "http://upload.wikimedia.org/wikipedia/de/a/a3/Stoke_City.svg",
+            "address": "Stanley Matthews Way Stoke-on-Trent ST4 4EG",
+            "phone": "+44 (0871) 6632008",
+            "website": "http://www.stokecityfc.com",
+            "email": "info@stokecityfc.com",
+            "founded": 1863,
+            "clubColors": "Red / White",
+            "venue": "Bet365 Stadium",
+            "lastUpdated": "2018-10-15T15:08:20Z"
+        },
+        {
+            "id": 72,
+            "area": {
+                "id": 2264,
+                "name": "Wales"
+            },
+            "name": "Swansea City AFC",
+            "shortName": "Swansea",
+            "tla": "SWA",
+            "crestUrl": "http://upload.wikimedia.org/wikipedia/de/a/ab/Swansea_City_Logo.svg",
+            "address": "Liberty Stadium, Landore Swansea SA1 2FA",
+            "phone": "+44 (01792) 616600",
+            "website": "http://www.swanseacity.net",
+            "email": "info@swanseacityfc.co.uk",
+            "founded": 1912,
+            "clubColors": "White / Black",
+            "venue": "Liberty Stadium",
+            "lastUpdated": "2018-10-15T15:08:21Z"
+        },
+        {
+            "id": 74,
+            "area": {
+                "id": 2072,
+                "name": "England"
+            },
+            "name": "West Bromwich Albion FC",
+            "shortName": "West Brom",
+            "tla": "WBA",
+            "crestUrl": "http://upload.wikimedia.org/wikipedia/de/8/8b/West_Bromwich_Albion.svg",
+            "address": "The Hawthorns West Bromwich B71 4LF",
+            "phone": null,
+            "website": "http://www.wba.co.uk",
+            "email": "enquiries@wbafc.co.uk",
+            "founded": 1879,
+            "clubColors": "White / Navy Blue",
+            "venue": "The Hawthorns",
+            "lastUpdated": "2018-10-15T15:08:22Z"
+        },
+        {
+            "id": 75,
+            "area": {
+                "id": 2072,
+                "name": "England"
+            },
+            "name": "Wigan Athletic FC",
+            "shortName": "Wigan Athletic",
+            "tla": "WIG",
+            "crestUrl": "https://upload.wikimedia.org/wikipedia/en/4/43/Wigan_Athletic.svg",
+            "address": "Loire Drive Wigan WN5 0UZ",
+            "phone": "+44 (01942) 774000",
+            "website": "http://www.wiganlatics.co.uk",
+            "email": "feedback@wiganathletic.com",
+            "founded": 1932,
+            "clubColors": "Blue / White",
+            "venue": "The DW Stadium",
+            "lastUpdated": "2018-10-15T15:08:22Z"
+        },
+        {
+            "id": 322,
+            "area": {
+                "id": 2072,
+                "name": "England"
+            },
+            "name": "Hull City AFC",
+            "shortName": "Hull City",
+            "tla": "HUL",
+            "crestUrl": "http://upload.wikimedia.org/wikipedia/de/a/a9/Hull_City_AFC.svg",
+            "address": "Walton Street Hull HU3 6HU",
+            "phone": "+44 (0870) 8370003",
+            "website": "http://www.hullcitytigers.com",
+            "email": "info@hulltigers.com",
+            "founded": 1904,
+            "clubColors": "Orange / Black",
+            "venue": "Kingston Communications Stadium",
+            "lastUpdated": "2018-10-15T15:08:43Z"
+        },
+        {
+            "id": 332,
+            "area": {
+                "id": 2072,
+                "name": "England"
+            },
+            "name": "Birmingham City FC",
+            "shortName": "Birmingham",
+            "tla": "BIR",
+            "crestUrl": "https://upload.wikimedia.org/wikipedia/en/6/68/Birmingham_City_FC_logo.svg",
+            "address": "St. Andrew's Stadium Birmingham B9 4RL",
+            "phone": "+44 (0844) 5571875",
+            "website": "http://www.bcfc.com",
+            "email": "reception@bcfc.com",
+            "founded": 1875,
+            "clubColors": "Blue / White",
+            "venue": "St Andrew's Trillion Trophy Stadium",
+            "lastUpdated": "2018-10-15T15:08:45Z"
+        },
+        {
+            "id": 341,
+            "area": {
+                "id": 2072,
+                "name": "England"
+            },
+            "name": "Leeds United AFC",
+            "shortName": "Leeds United",
+            "tla": "LEE",
+            "crestUrl": null,
+            "address": "Elland Road Leeds LS11 0ES",
+            "phone": "+44 (0871) 3341919",
+            "website": "http://www.leedsunited.com",
+            "email": "reception@leedsunited.com",
+            "founded": 1904,
+            "clubColors": "White / Blue",
+            "venue": "Elland Road",
+            "lastUpdated": "2018-10-15T15:08:47Z"
+        },
+        {
+            "id": 342,
+            "area": {
+                "id": 2072,
+                "name": "England"
+            },
+            "name": "Derby County FC",
+            "shortName": "Derby County",
+            "tla": "DER",
+            "crestUrl": "https://upload.wikimedia.org/wikipedia/en/4/4a/Derby_County_crest.svg",
+            "address": "Pride Park Derby DE24 8XL",
+            "phone": "+44 (0871) 4721884",
+            "website": "http://www.dcfc.co.uk",
+            "email": "derbycounty@dcfc.co.uk",
+            "founded": 1884,
+            "clubColors": "White / Black",
+            "venue": "iPro Stadium",
+            "lastUpdated": "2018-10-15T15:08:47Z"
+        },
+        {
+            "id": 343,
+            "area": {
+                "id": 2072,
+                "name": "England"
+            },
+            "name": "Middlesbrough FC",
+            "shortName": "Middlesbrough",
+            "tla": "MID",
+            "crestUrl": "https://upload.wikimedia.org/wikipedia/en/2/2c/Middlesbrough_FC_crest.svg",
+            "address": "Riverside Stadium Middlesbrough TS3 6RS",
+            "phone": "+44 (0844) 4996789",
+            "website": "http://www.mfc.co.uk",
+            "email": "enquiries@mfc.co.uk",
+            "founded": 1876,
+            "clubColors": "Red / White",
+            "venue": "Riverside Stadium",
+            "lastUpdated": "2018-10-15T15:08:48Z"
+        },
+        {
+            "id": 345,
+            "area": {
+                "id": 2072,
+                "name": "England"
+            },
+            "name": "Sheffield Wednesday FC",
+            "shortName": "Sheffield Wed",
+            "tla": "SWE",
+            "crestUrl": "https://upload.wikimedia.org/wikipedia/en/8/88/Sheffield_Wednesday_badge.svg",
+            "address": "Hillsborough Sheffield S6 1SW",
+            "phone": "+44 (0871) 9951867",
+            "website": "http://www.swfc.co.uk",
+            "email": "enquiries@swfc.co.uk",
+            "founded": 1820,
+            "clubColors": "Blue / White / Black",
+            "venue": "Hillsborough Stadium",
+            "lastUpdated": "2018-10-15T15:08:48Z"
+        },
+        {
+            "id": 349,
+            "area": {
+                "id": 2072,
+                "name": "England"
+            },
+            "name": "Ipswich Town FC",
+            "shortName": "Ipswich Town",
+            "tla": "IPS",
+            "crestUrl": "https://upload.wikimedia.org/wikipedia/en/4/43/Ipswich_Town.svg",
+            "address": "Portman Road Ipswich IP1 2DA",
+            "phone": null,
+            "website": "http://www.itfc.co.uk",
+            "email": "enquiries@itfc.co.uk",
+            "founded": 1887,
+            "clubColors": "Blue / White",
+            "venue": "Portman Road Stadium",
+            "lastUpdated": "2018-10-15T15:08:49Z"
+        },
+        {
+            "id": 351,
+            "area": {
+                "id": 2072,
+                "name": "England"
+            },
+            "name": "Nottingham Forest FC",
+            "shortName": "Nottingham For",
+            "tla": "NOT",
+            "crestUrl": "https://upload.wikimedia.org/wikipedia/en/d/d2/Nottingham_Forest_logo.svg",
+            "address": "Pavilion Road, West Bridgeford Nottingham NG2 5GJ",
+            "phone": "+44 (0115) 9824444",
+            "website": "http://www.nottinghamforest.co.uk",
+            "email": "enquiries@nottinghamforest.co.uk",
+            "founded": 1865,
+            "clubColors": "Red / White",
+            "venue": "The City Ground",
+            "lastUpdated": "2018-10-15T15:08:50Z"
+        },
+        {
+            "id": 355,
+            "area": {
+                "id": 2072,
+                "name": "England"
+            },
+            "name": "Reading FC",
+            "shortName": "Reading",
+            "tla": "REA",
+            "crestUrl": null,
+            "address": "Junction 11 M4 Reading RG2 0FL",
+            "phone": "+44 (0118) 9681211",
+            "website": "http://www.readingfc.co.uk",
+            "email": "customerservice@readingfc.co.uk",
+            "founded": 1871,
+            "clubColors": "Blue / White",
+            "venue": "Madejski Stadium",
+            "lastUpdated": "2018-10-15T15:08:50Z"
+        },
+        {
+            "id": 356,
+            "area": {
+                "id": 2072,
+                "name": "England"
+            },
+            "name": "Sheffield United FC",
+            "shortName": "Sheffield Utd",
+            "tla": "SHE",
+            "crestUrl": "https://upload.wikimedia.org/wikipedia/en/9/9c/Sheffield_United_FC_logo.svg",
+            "address": "Bramall Lane Sheffield S2 4SU",
+            "phone": "+44 (0871) 9951899",
+            "website": "http://www.sufc.co.uk",
+            "email": "info@sufc.co.uk",
+            "founded": null,
+            "clubColors": "Red / White / Black",
+            "venue": "Bramall Lane",
+            "lastUpdated": "2018-10-15T15:08:51Z"
+        },
+        {
+            "id": 384,
+            "area": {
+                "id": 2072,
+                "name": "England"
+            },
+            "name": "Millwall FC",
+            "shortName": "Millwall",
+            "tla": "MIL",
+            "crestUrl": "https://upload.wikimedia.org/wikipedia/en/7/71/Millwall_FC_logo.png",
+            "address": "Zampa Road London SE16 3LN",
+            "phone": "+44 (0207) 2321222",
+            "website": "http://www.millwallfc.co.uk",
+            "email": "questions@millwallplc.com",
+            "founded": 1885,
+            "clubColors": "Blue / White",
+            "venue": "The Den",
+            "lastUpdated": "2018-10-15T15:08:52Z"
+        },
+        {
+            "id": 385,
+            "area": {
+                "id": 2072,
+                "name": "England"
+            },
+            "name": "Rotherham United FC",
+            "shortName": "Rotherham Utd",
+            "tla": "ROT",
+            "crestUrl": "https://upload.wikimedia.org/wikipedia/en/c/c0/Rotherham_United_FC.svg",
+            "address": "New York Way Rotherham S60 1AH",
+            "phone": "+44 (08444) 140733",
+            "website": "http://www.themillers.co.uk",
+            "email": "office@rotherhamunited.net",
+            "founded": 1870,
+            "clubColors": "Red / White",
+            "venue": "New York Stadium",
+            "lastUpdated": "2018-10-15T15:08:52Z"
+        },
+        {
+            "id": 387,
+            "area": {
+                "id": 2072,
+                "name": "England"
+            },
+            "name": "Bristol City FC",
+            "shortName": "Bristol City",
+            "tla": "BRI",
+            "crestUrl": "",
+            "address": "Ashton Gate Bristol BS3 2EJ",
+            "phone": "+44 (0117) 9630600",
+            "website": "http://www.bcfc.co.uk",
+            "email": "enquiries@bcfc.co.uk",
+            "founded": 1894,
+            "clubColors": "Red / White",
+            "venue": "Ashton Gate Stadium",
+            "lastUpdated": "2018-10-15T15:08:52Z"
+        },
+        {
+            "id": 402,
+            "area": {
+                "id": 2072,
+                "name": "England"
+            },
+            "name": "Brentford FC",
+            "shortName": "Brentford",
+            "tla": "BRE",
+            "crestUrl": null,
+            "address": "Braemar Road Brentford TW8 0NT",
+            "phone": null,
+            "website": "http://www.brentfordfc.co.uk",
+            "email": "enquiries@brentfordfc.co.uk",
+            "founded": 1889,
+            "clubColors": "Red / White / Black",
+            "venue": "Griffin Park",
+            "lastUpdated": "2018-10-15T15:08:54Z"
+        },
+        {
+            "id": 1081,
+            "area": {
+                "id": 2072,
+                "name": "England"
+            },
+            "name": "Preston North End FC",
+            "shortName": "Preston NE",
+            "tla": "PNE",
+            "crestUrl": null,
+            "address": "Sir Tom Finney Way Preston PR1 6RU",
+            "phone": null,
+            "website": "http://www.pnefc.net",
+            "email": "enquiries@pne.com",
+            "founded": 1863,
+            "clubColors": "White / Navy Blue",
+            "venue": "Deepdale Stadium",
+            "lastUpdated": "2018-10-15T15:09:52Z"
+        }
+    ]
+}

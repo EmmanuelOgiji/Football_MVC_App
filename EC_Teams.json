@@ -1,0 +1,484 @@
+{
+    "competition": {
+        "id": 2018,
+        "area": {
+            "id": 2077,
+            "name": "Europe"
+        },
+        "name": "European Championship",
+        "code": "EC",
+        "plan": "TIER_ONE",
+        "lastUpdated": "2018-08-23T12:16:01Z"
+    },
+    "season": {
+        "id": 20,
+        "startDate": "2016-06-10",
+        "endDate": "2016-07-10",
+        "currentMatchday": 3,
+        "winner": {
+            "id": 765,
+            "name": "Portugal",
+            "shortName": "Portugal",
+            "tla": "POR",
+            "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg"
+        }
+    },
+    "teams": [
+        {
+            "id": 759,
+            "area": {
+                "id": 2088,
+                "name": "Germany"
+            },
+            "name": "Germany",
+            "shortName": "Germany",
+            "tla": "GER",
+            "crestUrl": "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg",
+            "address": "Otto-Fleck-Schneise 6 / Postfach 710265 Frankfurt am Main 60492",
+            "phone": "+49 (69) 67880",
+            "website": "http://www.dfb.de",
+            "email": "info@dfb.de",
+            "founded": 1900,
+            "clubColors": "White / Black",
+            "venue": "Wirsol Rhein-Neckar-Arena",
+            "lastUpdated": "2018-10-15T15:09:36Z"
+        },
+        {
+            "id": 760,
+            "area": {
+                "id": 2224,
+                "name": "Spain"
+            },
+            "name": "Spain",
+            "shortName": "Spain",
+            "tla": "ESP",
+            "crestUrl": "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg",
+            "address": "Ramón y Cajal, s/n Las Rozas 28230",
+            "phone": "+34 (91) 4959800",
+            "website": "http://www.rfef.es",
+            "email": "rfef@rfef.es",
+            "founded": 1909,
+            "clubColors": "Red / Blue / Yellow",
+            "venue": "Estadio Manuel Martínez Valero",
+            "lastUpdated": "2018-10-15T15:09:36Z"
+        },
+        {
+            "id": 765,
+            "area": {
+                "id": 2187,
+                "name": "Portugal"
+            },
+            "name": "Portugal",
+            "shortName": "Portugal",
+            "tla": "POR",
+            "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg",
+            "address": "Rua Alexandre Herculano, 58 Lisboa 1250-012",
+            "phone": "+351 (213) 252700",
+            "website": "http://www.fpf.pt",
+            "email": "info@fpf.pt",
+            "founded": 1914,
+            "clubColors": "Red / Green",
+            "venue": "Estádio do Sport Lisboa e Benfica",
+            "lastUpdated": "2018-10-15T15:09:37Z"
+        },
+        {
+            "id": 768,
+            "area": {
+                "id": 2214,
+                "name": "Slovakia"
+            },
+            "name": "Slovakia",
+            "shortName": "Slovakia",
+            "tla": "SVK",
+            "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg",
+            "address": "Trnavská 100 Bratislava 82101",
+            "phone": "+421 (2) 48206000",
+            "website": "http://www.futbalsfz.sk",
+            "email": "office@futbalsfz.sk",
+            "founded": 1938,
+            "clubColors": "Blue / White",
+            "venue": "City Arena Trnava",
+            "lastUpdated": "2018-10-15T15:09:37Z"
+        },
+        {
+            "id": 770,
+            "area": {
+                "id": 2072,
+                "name": "England"
+            },
+            "name": "England",
+            "shortName": "England",
+            "tla": "ENG",
+            "crestUrl": "https://upload.wikimedia.org/wikipedia/en/b/be/Flag_of_England.svg",
+            "address": "Wembley Stadium, PO Box 1966 London SW1P 9EQ",
+            "phone": "+44 (844) 9808200",
+            "website": "http://www.thefa.com",
+            "email": "info@thefa.com",
+            "founded": 1863,
+            "clubColors": "White / Red / Navy Blue",
+            "venue": "King Power Stadium",
+            "lastUpdated": "2018-10-15T15:09:38Z"
+        },
+        {
+            "id": 773,
+            "area": {
+                "id": 2081,
+                "name": "France"
+            },
+            "name": "France",
+            "shortName": "France",
+            "tla": "FRA",
+            "crestUrl": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+            "address": "87 Boulevard de Grenelle Paris 75738",
+            "phone": "+33 (1) 44317300",
+            "website": "http://www.fff.fr",
+            "email": "webmaster@fff.fr",
+            "founded": 1919,
+            "clubColors": "Blue / White / Red",
+            "venue": "Kazan Arena",
+            "lastUpdated": "2018-10-15T15:09:38Z"
+        },
+        {
+            "id": 784,
+            "area": {
+                "id": 2114,
+                "name": "Italy"
+            },
+            "name": "Italy",
+            "shortName": "Italy",
+            "tla": "ITA",
+            "crestUrl": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg",
+            "address": "Via Gregorio Allegri, 14 / CP 2450 Roma 00198",
+            "phone": "+39 (06) 84911",
+            "website": "http://www.figc.it",
+            "email": "international@figc.it",
+            "founded": 1898,
+            "clubColors": "Blue / White",
+            "venue": "Stadio Comunale Luigi Ferraris",
+            "lastUpdated": "2018-10-15T15:09:40Z"
+        },
+        {
+            "id": 788,
+            "area": {
+                "id": 2234,
+                "name": "Switzerland"
+            },
+            "name": "Switzerland",
+            "shortName": "Switzerland",
+            "tla": "SUI",
+            "crestUrl": null,
+            "address": "Worbstrasse 48 Bern 3000",
+            "phone": "+41 (31) 9508111",
+            "website": "http://www.football.ch",
+            "email": "sfv.asf@football.ch",
+            "founded": 1895,
+            "clubColors": "Red / White",
+            "venue": "Kybunpark",
+            "lastUpdated": "2018-10-15T15:09:40Z"
+        },
+        {
+            "id": 790,
+            "area": {
+                "id": 2253,
+                "name": "Ukraine"
+            },
+            "name": "Ukraine",
+            "shortName": "Ukraine",
+            "tla": "UKR",
+            "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg",
+            "address": "Provulok Laboratorniy 7-A / PO Box 55 Kyïv 01133",
+            "phone": "+380 (44) 5210521",
+            "website": "http://www.ffu.org.ua",
+            "email": "info@ffu.org.ua",
+            "founded": 1991,
+            "clubColors": "Yellow / Blue",
+            "venue": "L'viv Arena",
+            "lastUpdated": "2018-10-15T15:09:40Z"
+        },
+        {
+            "id": 792,
+            "area": {
+                "id": 2233,
+                "name": "Sweden"
+            },
+            "name": "Sweden",
+            "shortName": "Sweden",
+            "tla": "SWE",
+            "crestUrl": "https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg",
+            "address": "Evenemangsgatan 31 / Box 1216 Solna 17123",
+            "phone": "+46 (8) 7350900",
+            "website": "http://www.svenskfotboll.se",
+            "email": "svff@svenskfotboll.se",
+            "founded": 1904,
+            "clubColors": "Yellow / Blue",
+            "venue": "Friends Arena",
+            "lastUpdated": "2018-10-15T15:09:40Z"
+        },
+        {
+            "id": 794,
+            "area": {
+                "id": 2186,
+                "name": "Poland"
+            },
+            "name": "Poland",
+            "shortName": "Poland",
+            "tla": "POL",
+            "crestUrl": "https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg",
+            "address": "Bitwy Warszawskiej 1920 r., 7 Warszawa 02366",
+            "phone": "+48 (22) 5512300",
+            "website": "http://www.pzpn.pl",
+            "email": "pzpn@pzpn.pl",
+            "founded": 1919,
+            "clubColors": "White / Red",
+            "venue": "Stadion Śląski",
+            "lastUpdated": "2018-10-15T15:09:41Z"
+        },
+        {
+            "id": 798,
+            "area": {
+                "id": 2062,
+                "name": "Czech Republic"
+            },
+            "name": "Czech Republic",
+            "shortName": "Czech Republic",
+            "tla": "CZE",
+            "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg",
+            "address": "Diskařská 2431/4 Praha 16017",
+            "phone": "+420 (23) 3029111",
+            "website": "http://www.fotbal.cz",
+            "email": "facr@fotbal.cz",
+            "founded": 1901,
+            "clubColors": "Red / White / Blue",
+            "venue": "Městský fotbalový stadion Miroslava Valenty",
+            "lastUpdated": "2018-10-15T15:09:41Z"
+        },
+        {
+            "id": 799,
+            "area": {
+                "id": 2058,
+                "name": "Croatia"
+            },
+            "name": "Croatia",
+            "shortName": "Croatia",
+            "tla": "CRO",
+            "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
+            "address": "Ulica grada Vukovara, 269 A Zagreb 10000",
+            "phone": "+385 (1) 2361555",
+            "website": "http://www.hns-cff.hr",
+            "email": "info@hns-cff.hr",
+            "founded": 1912,
+            "clubColors": "Red / White / Blue",
+            "venue": "Stadion HNK Rijeka",
+            "lastUpdated": "2018-10-15T15:09:41Z"
+        },
+        {
+            "id": 803,
+            "area": {
+                "id": 2247,
+                "name": "Turkey"
+            },
+            "name": "Turkey",
+            "shortName": "Turkey",
+            "tla": "TUR",
+            "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg",
+            "address": "Istinye Mahallesi, Darüşşafaka Caddesi, 45 İstanbul 34330",
+            "phone": "+90 (212) 3622222",
+            "website": "http://www.tff.org",
+            "email": "intdept@tff.org",
+            "founded": 1923,
+            "clubColors": "Red / White",
+            "venue": "Yeni Rize Şehir Stadı",
+            "lastUpdated": "2018-10-15T15:09:42Z"
+        },
+        {
+            "id": 805,
+            "area": {
+                "id": 2023,
+                "name": "Belgium"
+            },
+            "name": "Belgium",
+            "shortName": "Belgium",
+            "tla": "BEL",
+            "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg",
+            "address": "145, avenue Houba de Strooper Brussels 1020",
+            "phone": "+32 (2) 4771211",
+            "website": "http://www.belgianfootball.be",
+            "email": "urbsfa.kbvb@footbel.com",
+            "founded": 1895,
+            "clubColors": "Red / Black / Yellow",
+            "venue": "Olimpiyskiy Stadion Fisht",
+            "lastUpdated": "2018-10-15T15:09:42Z"
+        },
+        {
+            "id": 806,
+            "area": {
+                "id": 2192,
+                "name": "Republic of Ireland"
+            },
+            "name": "Republic of Ireland",
+            "shortName": "Ireland",
+            "tla": "IRE",
+            "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg",
+            "address": "National Sports Campus, Abbotstown Dublin 15",
+            "phone": "+353 (1) 8999500",
+            "website": "http://www.fai.ie",
+            "email": "info@fai.ie",
+            "founded": 1921,
+            "clubColors": "Green / White / Orange",
+            "venue": "Aviva Stadium",
+            "lastUpdated": "2018-10-15T15:09:42Z"
+        },
+        {
+            "id": 808,
+            "area": {
+                "id": 2195,
+                "name": "Russia"
+            },
+            "name": "Russia",
+            "shortName": "Russia",
+            "tla": "RUS",
+            "crestUrl": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg",
+            "address": "Ulitsa Narodnaya, 7 Moskva 115172",
+            "phone": "+7 (495) 9261300",
+            "website": "http://www.rfs.ru",
+            "email": "info@rfs.ru",
+            "founded": 1912,
+            "clubColors": "Red / White / Blue",
+            "venue": "Olimpiyskiy Stadion Fisht",
+            "lastUpdated": "2018-10-15T15:09:42Z"
+        },
+        {
+            "id": 811,
+            "area": {
+                "id": 2194,
+                "name": "Romania"
+            },
+            "name": "Romania",
+            "shortName": "Romania",
+            "tla": "ROM",
+            "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg",
+            "address": "Strada Vasile Şerbănică, 12 Bucureşti 022186",
+            "phone": "+40 (213) 250678",
+            "website": "http://www.frf.ro",
+            "email": "frf@frf.ro",
+            "founded": 1909,
+            "clubColors": "Yellow / Blue / Red",
+            "venue": "Stadionul Ilie Oană",
+            "lastUpdated": "2018-10-15T15:09:43Z"
+        },
+        {
+            "id": 816,
+            "area": {
+                "id": 2016,
+                "name": "Austria"
+            },
+            "name": "Austria",
+            "shortName": "Austria",
+            "tla": "AUT",
+            "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg",
+            "address": "Ernst-Happel-Stadion, Sektor A/F, Meiereistraße 7 Wien 1020",
+            "phone": "+43 (1) 727180",
+            "website": "http://www.oefb.at",
+            "email": "office@oefb.at",
+            "founded": 1904,
+            "clubColors": "Red / White / Black",
+            "venue": "Generali Arena",
+            "lastUpdated": "2018-10-15T15:09:44Z"
+        },
+        {
+            "id": 827,
+            "area": {
+                "id": 2106,
+                "name": "Hungary"
+            },
+            "name": "Hungary",
+            "shortName": "Hungary",
+            "tla": "HUN",
+            "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg",
+            "address": "Kánai út 2/d Budapest 1112",
+            "phone": "+36 (15) 779500",
+            "website": "http://www.mlsz.hu",
+            "email": "mlsz@mlsz.hu",
+            "founded": 1901,
+            "clubColors": "Red / White / Green",
+            "venue": "Groupama Arena",
+            "lastUpdated": "2018-10-15T15:09:44Z"
+        },
+        {
+            "id": 829,
+            "area": {
+                "id": 2171,
+                "name": "Northern Ireland"
+            },
+            "name": "Northern Ireland",
+            "shortName": "N Ireland",
+            "tla": "NIR",
+            "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Northern_Ireland.svg",
+            "address": "20 Windsor Avenue Belfast BT9 6EG",
+            "phone": "+44 (2890) 669458",
+            "website": "http://www.irishfa.com",
+            "email": "info@irishfa.com",
+            "founded": 1880,
+            "clubColors": "Green / White",
+            "venue": "Windsor Park",
+            "lastUpdated": "2018-10-15T15:09:44Z"
+        },
+        {
+            "id": 833,
+            "area": {
+                "id": 2264,
+                "name": "Wales"
+            },
+            "name": "Wales",
+            "shortName": "Wales",
+            "tla": "WAL",
+            "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Flag_of_Wales_2.svg",
+            "address": "11/12 Neptune Court, Vanguard Way Cardiff CF24 5PJ",
+            "phone": "+44 (2920) 435830",
+            "website": "http://www.faw.org.uk",
+            "email": "info@faw.org.uk",
+            "founded": 1876,
+            "clubColors": "Red / White",
+            "venue": "National Stadium",
+            "lastUpdated": "2018-10-15T15:09:45Z"
+        },
+        {
+            "id": 1065,
+            "area": {
+                "id": 2002,
+                "name": "Albania"
+            },
+            "name": "Albania",
+            "shortName": "Albania",
+            "tla": "ALB",
+            "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg",
+            "address": "Rruga e Elbasanit 9 Tiranë 1000",
+            "phone": "+355 (42) 346605",
+            "website": "http://www.fshf.org",
+            "email": "info@fshf.org.al",
+            "founded": 1930,
+            "clubColors": "Red / Black",
+            "venue": "Elbasan Arena",
+            "lastUpdated": "2018-10-15T15:09:49Z"
+        },
+        {
+            "id": 1066,
+            "area": {
+                "id": 2107,
+                "name": "Iceland"
+            },
+            "name": "Iceland",
+            "shortName": "Iceland",
+            "tla": "ISL",
+            "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Iceland.svg",
+            "address": "Laugardal Reykjavík 104",
+            "phone": "+354 (5) 102900",
+            "website": "http://www.ksi.is",
+            "email": "ksi@ksi.is",
+            "founded": 1947,
+            "clubColors": "Blue / White",
+            "venue": "Laugardalsvöllur",
+            "lastUpdated": "2018-10-15T15:09:49Z"
+        }
+    ]
+}

@@ -1,0 +1,1523 @@
+{
+    "competition": {
+        "id": 2001,
+        "area": {
+            "id": 2077,
+            "name": "Europe"
+        },
+        "name": "UEFA Champions League",
+        "code": "CL",
+        "plan": "TIER_ONE",
+        "lastUpdated": "2018-12-13T18:55:02Z"
+    },
+    "season": {
+        "id": 175,
+        "startDate": "2018-06-26",
+        "endDate": "2019-06-01",
+        "currentMatchday": 7,
+        "winner": null
+    },
+    "teams": [
+        {
+            "id": 2,
+            "area": {
+                "id": 2088,
+                "name": "Germany"
+            },
+            "name": "TSG 1899 Hoffenheim",
+            "shortName": "Hoffenheim",
+            "tla": "HOF",
+            "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Logo_TSG_Hoffenheim.svg",
+            "address": "Horrenberger Straße 58 Zuzenhausen 74939",
+            "phone": "+49 (07261) 94930",
+            "website": "http://www.achtzehn99.de",
+            "email": "info@achtzehn99.de",
+            "founded": 1921,
+            "clubColors": "Blue / White",
+            "venue": "Wirsol Rhein-Neckar-Arena",
+            "lastUpdated": "2018-12-11T09:55:00Z"
+        },
+        {
+            "id": 4,
+            "area": {
+                "id": 2088,
+                "name": "Germany"
+            },
+            "name": "BV Borussia 09 Dortmund",
+            "shortName": "Dortmund",
+            "tla": "BVB",
+            "crestUrl": "http://upload.wikimedia.org/wikipedia/commons/6/67/Borussia_Dortmund_logo.svg",
+            "address": "Rheinlanddamm 207-209 Dortmund 44137",
+            "phone": "+49 (231) 90200",
+            "website": "http://www.bvb.de",
+            "email": "info@bvb.de",
+            "founded": 1909,
+            "clubColors": "Black / Yellow",
+            "venue": "Signal Iduna Park",
+            "lastUpdated": "2018-12-11T09:55:03Z"
+        },
+        {
+            "id": 5,
+            "area": {
+                "id": 2088,
+                "name": "Germany"
+            },
+            "name": "FC Bayern München",
+            "shortName": "Bayern M",
+            "tla": "BAY",
+            "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg",
+            "address": "Säbenerstr. 51 München 81547",
+            "phone": "+49 (089) 699310",
+            "website": "http://www.fcbayern.de",
+            "email": "service-team@fcb.de",
+            "founded": 1900,
+            "clubColors": "Red / White / Blue",
+            "venue": "Allianz Arena",
+            "lastUpdated": "2018-12-11T09:55:04Z"
+        },
+        {
+            "id": 6,
+            "area": {
+                "id": 2088,
+                "name": "Germany"
+            },
+            "name": "FC Schalke 04",
+            "shortName": "Schalke",
+            "tla": "S04",
+            "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/FC_Schalke_04_Logo.svg",
+            "address": "Ernst-Kuzorra-Weg 1 Gelsenkirchen 45891",
+            "phone": "+49 (0209) 36180",
+            "website": "http://www.schalke04.de",
+            "email": "post@schalke04.de",
+            "founded": 1904,
+            "clubColors": "Blue / White",
+            "venue": "Veltins-Arena",
+            "lastUpdated": "2018-12-11T09:55:05Z"
+        },
+        {
+            "id": 64,
+            "area": {
+                "id": 2072,
+                "name": "England"
+            },
+            "name": "Liverpool FC",
+            "shortName": "Liverpool",
+            "tla": "LIV",
+            "crestUrl": "http://upload.wikimedia.org/wikipedia/de/0/0a/FC_Liverpool.svg",
+            "address": "Anfield Road Liverpool L4 OTH",
+            "phone": "+44 (0844) 4993000",
+            "website": "http://www.liverpoolfc.tv",
+            "email": "customercontact@liverpoolfc.tv",
+            "founded": 1892,
+            "clubColors": "Red / White",
+            "venue": "Anfield",
+            "lastUpdated": "2018-10-15T15:08:18Z"
+        },
+        {
+            "id": 65,
+            "area": {
+                "id": 2072,
+                "name": "England"
+            },
+            "name": "Manchester City FC",
+            "shortName": "Man City",
+            "tla": "MNC",
+            "crestUrl": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
+            "address": "SportCity Manchester M11 3FF",
+            "phone": "+44 (0870) 0621894",
+            "website": "https://www.mancity.com",
+            "email": "mancity@mancity.com",
+            "founded": 1880,
+            "clubColors": "Sky Blue / White",
+            "venue": "Etihad Stadium",
+            "lastUpdated": "2018-10-15T15:08:18Z"
+        },
+        {
+            "id": 66,
+            "area": {
+                "id": 2072,
+                "name": "England"
+            },
+            "name": "Manchester United FC",
+            "shortName": "Man United",
+            "tla": "MNU",
+            "crestUrl": "http://upload.wikimedia.org/wikipedia/de/d/da/Manchester_United_FC.svg",
+            "address": "Sir Matt Busby Way Manchester M16 0RA",
+            "phone": "+44 (0161) 8688000",
+            "website": "http://www.manutd.com",
+            "email": "enquiries@manutd.co.uk",
+            "founded": 1878,
+            "clubColors": "Red / White",
+            "venue": "Old Trafford",
+            "lastUpdated": "2018-10-15T15:08:19Z"
+        },
+        {
+            "id": 73,
+            "area": {
+                "id": 2072,
+                "name": "England"
+            },
+            "name": "Tottenham Hotspur FC",
+            "shortName": "Tottenham",
+            "tla": "TOT",
+            "crestUrl": "http://upload.wikimedia.org/wikipedia/de/b/b4/Tottenham_Hotspur.svg",
+            "address": "Bill Nicholson Way, 748 High Road London N17 OAP",
+            "phone": "+44 (0844) 4995000",
+            "website": "http://www.tottenhamhotspur.com",
+            "email": "customer.care@tottenhamhotspur.com",
+            "founded": 1882,
+            "clubColors": "Navy Blue / White",
+            "venue": "Wembley Stadium",
+            "lastUpdated": "2018-10-15T15:08:21Z"
+        },
+        {
+            "id": 78,
+            "area": {
+                "id": 2224,
+                "name": "Spain"
+            },
+            "name": "Club Atlético de Madrid",
+            "shortName": "Club Atlético",
+            "tla": "ATM",
+            "crestUrl": "http://upload.wikimedia.org/wikipedia/de/c/c1/Atletico_Madrid_logo.svg",
+            "address": "Paseo Virgen del Puerto, 67 Madrid 28005",
+            "phone": "+34 (913) 669048",
+            "website": "http://www.clubatleticodemadrid.com",
+            "email": "comunicacion@clubatleticodemadrid.com",
+            "founded": 1903,
+            "clubColors": "Red / White / Blue",
+            "venue": "Estadio Wanda Metropolitano",
+            "lastUpdated": "2018-10-15T15:08:24Z"
+        },
+        {
+            "id": 81,
+            "area": {
+                "id": 2224,
+                "name": "Spain"
+            },
+            "name": "FC Barcelona",
+            "shortName": "Barcelona",
+            "tla": "FCB",
+            "crestUrl": "http://upload.wikimedia.org/wikipedia/de/a/aa/Fc_barcelona.svg",
+            "address": "Avenida Arístides Maillol s/n Barcelona 08028",
+            "phone": "+34 (902) 189900",
+            "website": "http://www.fcbarcelona.com",
+            "email": "secretaria@fcbarcelona.com",
+            "founded": 1899,
+            "clubColors": "Red / Navy Blue / Orange",
+            "venue": "Camp Nou",
+            "lastUpdated": "2018-10-15T15:08:25Z"
+        },
+        {
+            "id": 86,
+            "area": {
+                "id": 2224,
+                "name": "Spain"
+            },
+            "name": "Real Madrid CF",
+            "shortName": "Real Madrid",
+            "tla": "RMA",
+            "crestUrl": "http://upload.wikimedia.org/wikipedia/de/3/3f/Real_Madrid_Logo.svg",
+            "address": "Avenida Concha Espina, 1 Madrid 28036",
+            "phone": "+34 (913) 984300",
+            "website": "http://www.realmadrid.com",
+            "email": "atencionpublico@corp.realmadrid.com",
+            "founded": 1902,
+            "clubColors": "White / Purple",
+            "venue": "Estadio Santiago Bernabéu",
+            "lastUpdated": "2018-10-15T15:08:27Z"
+        },
+        {
+            "id": 95,
+            "area": {
+                "id": 2224,
+                "name": "Spain"
+            },
+            "name": "Valencia CF",
+            "shortName": "Valencia",
+            "tla": "VAL",
+            "crestUrl": "http://upload.wikimedia.org/wikipedia/de/7/75/FC_Valencia.svg",
+            "address": "Plaza del Valencia Club de Fútbol, 2 Valencia 46010",
+            "phone": "+34 (902) 011919",
+            "website": "http://www.valenciacf.com",
+            "email": "informacion@valenciacf.es",
+            "founded": 1919,
+            "clubColors": "White / Orange / Black",
+            "venue": "Estadio de Mestalla",
+            "lastUpdated": "2018-10-15T15:08:30Z"
+        },
+        {
+            "id": 100,
+            "area": {
+                "id": 2114,
+                "name": "Italy"
+            },
+            "name": "AS Roma",
+            "shortName": "Roma",
+            "tla": "ROM",
+            "crestUrl": "http://upload.wikimedia.org/wikipedia/de/3/32/AS_Rom.svg",
+            "address": "Via di Trigoria km. 3,600 Roma 00128",
+            "phone": "+39 (06) 501911",
+            "website": "http://www.asroma.it",
+            "email": "info@asromaweb.com",
+            "founded": 1927,
+            "clubColors": "Maroon / Orange / White",
+            "venue": "Stadio Olimpico",
+            "lastUpdated": "2018-10-15T15:08:32Z"
+        },
+        {
+            "id": 108,
+            "area": {
+                "id": 2114,
+                "name": "Italy"
+            },
+            "name": "FC Internazionale Milano",
+            "shortName": "Inter",
+            "tla": "INT",
+            "crestUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Inter_Milan.svg/316px-Inter_Milan.svg",
+            "address": "Corso Vittorio Emanuele II 9 Milano 20122",
+            "phone": "+39 (02) 77151",
+            "website": "http://www.inter.it",
+            "email": "segreteriaccic@inter.it",
+            "founded": 1908,
+            "clubColors": "Blue / Black",
+            "venue": "Stadio Giuseppe Meazza",
+            "lastUpdated": "2018-10-15T15:08:35Z"
+        },
+        {
+            "id": 109,
+            "area": {
+                "id": 2114,
+                "name": "Italy"
+            },
+            "name": "Juventus FC",
+            "shortName": "Juventus",
+            "tla": "JUV",
+            "crestUrl": "http://upload.wikimedia.org/wikipedia/de/d/d2/Juventus_Turin.svg",
+            "address": "Corso Galileo Ferraris, 32 Torino 10128",
+            "phone": "+39 (011) 65631",
+            "website": "http://www.juventus.com",
+            "email": "francesco.gianello@juventus.com",
+            "founded": 1897,
+            "clubColors": "White / Black",
+            "venue": "Allianz Stadium",
+            "lastUpdated": "2018-10-15T15:08:35Z"
+        },
+        {
+            "id": 113,
+            "area": {
+                "id": 2114,
+                "name": "Italy"
+            },
+            "name": "SSC Napoli",
+            "shortName": "Napoli",
+            "tla": "NAP",
+            "crestUrl": "http://upload.wikimedia.org/wikipedia/commons/2/28/S.S.C._Napoli_logo.svg",
+            "address": "Centro Tecnico di Castel Volturno, Via S.S. Domitana, Km 35 Castel Volturno 81030",
+            "phone": "+39 (081) 5095344",
+            "website": "http://www.sscnapoli.it",
+            "email": "infocalcio@sscn.it",
+            "founded": 1904,
+            "clubColors": "Sky Blue / White",
+            "venue": "Stadio San Paolo",
+            "lastUpdated": "2018-10-15T15:08:37Z"
+        },
+        {
+            "id": 503,
+            "area": {
+                "id": 2187,
+                "name": "Portugal"
+            },
+            "name": "FC Porto",
+            "shortName": "Porto",
+            "tla": "POR",
+            "crestUrl": "http://upload.wikimedia.org/wikipedia/de/e/ed/FC_Porto_1922-2005.svg",
+            "address": "Estádio do Dragão, Entrada Poente - Piso 3 Porto 4350-451",
+            "phone": "+351 (022) 5070500",
+            "website": "http://www.fcporto.pt",
+            "email": "geral@portosad.pt",
+            "founded": 1893,
+            "clubColors": "Blue / White",
+            "venue": "Estádio Do Dragão",
+            "lastUpdated": "2018-10-15T15:09:00Z"
+        },
+        {
+            "id": 523,
+            "area": {
+                "id": 2081,
+                "name": "France"
+            },
+            "name": "Olympique Lyonnais",
+            "shortName": "Olympique Lyon",
+            "tla": "LYO",
+            "crestUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e2/Olympique_lyonnais_%28logo%29.svg/130px-Olympique_lyonnais_%28logo%29.svg",
+            "address": "350 avenue Jean Jaurès Lyon 69007",
+            "phone": "+33 (0426) 296532",
+            "website": "http://www.olweb.fr",
+            "email": "olympique-lyonnais@lrafoot.org",
+            "founded": 1896,
+            "clubColors": "White / Red / Blue",
+            "venue": "Groupama Stadium",
+            "lastUpdated": "2018-10-15T15:09:05Z"
+        },
+        {
+            "id": 524,
+            "area": {
+                "id": 2081,
+                "name": "France"
+            },
+            "name": "Paris Saint-Germain FC",
+            "shortName": "PSG",
+            "tla": "PSG",
+            "crestUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Paris_Saint-Germain_Logo.svg/130px-Paris_Saint-Germain_Logo.svg",
+            "address": "24, rue de Commandant Guibaud Paris 7501",
+            "phone": "+33 (0139) 733467",
+            "website": "http://www.psg.fr",
+            "email": "communaute@psg.fr",
+            "founded": 1904,
+            "clubColors": "Red / Blue / White",
+            "venue": "Parc des Princes",
+            "lastUpdated": "2018-10-15T15:09:06Z"
+        },
+        {
+            "id": 548,
+            "area": {
+                "id": 2152,
+                "name": "Monaco"
+            },
+            "name": "AS Monaco FC",
+            "shortName": "AS Monaco",
+            "tla": "ASM",
+            "crestUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/AS_Monaco_FC.svg/130px-AS_Monaco_FC.svg",
+            "address": "Avenue des Castellans Monaco 98000",
+            "phone": "+33 (377) 92057473",
+            "website": "http://www.asmonaco.com",
+            "email": null,
+            "founded": 1919,
+            "clubColors": "Red / White",
+            "venue": "Stade Louis II.",
+            "lastUpdated": "2018-10-15T15:09:12Z"
+        },
+        {
+            "id": 610,
+            "area": {
+                "id": 2247,
+                "name": "Turkey"
+            },
+            "name": "Galatasaray SK",
+            "shortName": "Galatasaray",
+            "tla": "GAL",
+            "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Galatasaray_Sports_Club_Logo.png",
+            "address": "Türk Telekom Arena Stadyumu, Huzur Mahallesi, Şişli İstanbul 34415",
+            "phone": "+90 (212) 3051905",
+            "website": "http://www.galatasaray.org",
+            "email": "info@galatasaray.org",
+            "founded": 1905,
+            "clubColors": "Red / Yellow",
+            "venue": "Türk Telekom Arena",
+            "lastUpdated": "2018-10-15T15:09:23Z"
+        },
+        {
+            "id": 611,
+            "area": {
+                "id": 2017,
+                "name": "Azerbaijan"
+            },
+            "name": "Qarabağ Ağdam FK",
+            "shortName": "Qarabağ Ağdam",
+            "tla": "QAR",
+            "crestUrl": "",
+            "address": "Bakı şəhəri.Suraxanı, qəsəbəsi Ağdam null",
+            "phone": "+994 (12) 4521345",
+            "website": "http://www.qarabagh.com",
+            "email": null,
+            "founded": 1951,
+            "clubColors": "Black / White",
+            "venue": "Azərsun Arena",
+            "lastUpdated": "2018-10-15T15:09:23Z"
+        },
+        {
+            "id": 613,
+            "area": {
+                "id": 2247,
+                "name": "Turkey"
+            },
+            "name": "Fenerbahçe SK",
+            "shortName": "Fenerbahçe",
+            "tla": "FEN",
+            "crestUrl": "",
+            "address": "Fenerbahçe Şükrü Saracoğlu Stadyumu, Bağdat Caddesi, Kadıköy İstanbul 34724",
+            "phone": "+90 (216) 5421907",
+            "website": "http://www.fenerbahce.org",
+            "email": "fenerbahceorg@fenerbahce.org",
+            "founded": 1907,
+            "clubColors": "Yellow / Blue",
+            "venue": "Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi",
+            "lastUpdated": "2018-10-15T15:09:24Z"
+        },
+        {
+            "id": 674,
+            "area": {
+                "id": 2163,
+                "name": "Netherlands"
+            },
+            "name": "PSV",
+            "shortName": "PSV",
+            "tla": "PSV",
+            "crestUrl": "http://upload.wikimedia.org/wikipedia/de/0/05/PSV_Eindhoven.svg",
+            "address": "Fredriklaan 10a Eindhoven 5616 NH",
+            "phone": "+31 (040) 2505501",
+            "website": "http://www.psv.nl",
+            "email": "info@psv.nl",
+            "founded": 1913,
+            "clubColors": "Red / White",
+            "venue": "Philips Stadion",
+            "lastUpdated": "2018-12-17T07:24:18Z"
+        },
+        {
+            "id": 678,
+            "area": {
+                "id": 2163,
+                "name": "Netherlands"
+            },
+            "name": "AFC Ajax",
+            "shortName": "Ajax",
+            "tla": "AJA",
+            "crestUrl": "http://upload.wikimedia.org/wikipedia/de/7/79/Ajax_Amsterdam.svg",
+            "address": "ArenA Boulevard 29 Amsterdam 1101 AX",
+            "phone": "+31 (020) 3111444",
+            "website": "http://www.ajax.nl",
+            "email": "info@ajax.nl",
+            "founded": 1900,
+            "clubColors": "Red / White",
+            "venue": "Johan Cruyff ArenA",
+            "lastUpdated": "2018-12-17T07:24:23Z"
+        },
+        {
+            "id": 729,
+            "area": {
+                "id": 2234,
+                "name": "Switzerland"
+            },
+            "name": "FC Basel 1893",
+            "shortName": "Basel",
+            "tla": "BAS",
+            "crestUrl": "http://upload.wikimedia.org/wikipedia/commons/c/c5/FC_Basel.png",
+            "address": "Birsstr. 320 A Basel 4002",
+            "phone": "+41 (61) 3751010",
+            "website": "http://www.fcb.ch",
+            "email": "info@fcb.ch",
+            "founded": 1893,
+            "clubColors": "Red / Blue",
+            "venue": "St. Jakob-Park",
+            "lastUpdated": "2018-10-15T15:09:33Z"
+        },
+        {
+            "id": 732,
+            "area": {
+                "id": 2204,
+                "name": "Scotland"
+            },
+            "name": "Celtic FC",
+            "shortName": "Celtic",
+            "tla": "CEL",
+            "crestUrl": "https://upload.wikimedia.org/wikipedia/en/3/35/Celtic_FC.svg",
+            "address": "Celtic Park Glasgow G40 3RE",
+            "phone": "+44 (871) 2261888",
+            "website": "http://www.celticfc.co.uk",
+            "email": "comments@celticfc.com",
+            "founded": 1887,
+            "clubColors": "Green / White",
+            "venue": "Celtic Park",
+            "lastUpdated": "2018-10-15T15:09:34Z"
+        },
+        {
+            "id": 748,
+            "area": {
+                "id": 2022,
+                "name": "Belarus"
+            },
+            "name": "FK BATE Borisov",
+            "shortName": "BATE",
+            "tla": "BAT",
+            "crestUrl": "http://upload.wikimedia.org/wikipedia/de/thumb/0/0a/Logo_BATE_Baryssau.svg/150px-Logo_BATE_Baryssau.svg.png",
+            "address": "prospekt Revoljutsni 16 Borisov 222120",
+            "phone": "+375 (177) 732046",
+            "website": "http://www.fcbate.by",
+            "email": "club@fcbate.by",
+            "founded": 1973,
+            "clubColors": "Blue / Yellow",
+            "venue": "Borisov Arena",
+            "lastUpdated": "2018-10-15T15:09:35Z"
+        },
+        {
+            "id": 749,
+            "area": {
+                "id": 2233,
+                "name": "Sweden"
+            },
+            "name": "Malmö FF",
+            "shortName": "Malmö FF",
+            "tla": "MAL",
+            "crestUrl": "http://upload.wikimedia.org/wikipedia/de/1/17/Logo_Malm%C3%B6_FF.svg",
+            "address": "Box 19067 Malmö 20073",
+            "phone": "+46 (040) 326600",
+            "website": "http://www.mff.se",
+            "email": "info@mff.se",
+            "founded": 1910,
+            "clubColors": "Light Blue / White",
+            "venue": "Swedbank Stadion",
+            "lastUpdated": "2018-10-15T15:09:35Z"
+        },
+        {
+            "id": 752,
+            "area": {
+                "id": 2061,
+                "name": "Cyprus"
+            },
+            "name": "APOEL FC",
+            "shortName": "APOEL",
+            "tla": "APO",
+            "crestUrl": "https://upload.wikimedia.org/wikipedia/en/0/06/APOELnew.png",
+            "address": "Dimofontos Str 39 Nicosia 1075",
+            "phone": "+357 (22) 340200",
+            "website": "http://www.apoelfc.com.cy",
+            "email": "info@apoelfc.com.cy",
+            "founded": 1926,
+            "clubColors": "Yellow / Blue",
+            "venue": "Neo GSP",
+            "lastUpdated": "2018-10-15T15:09:35Z"
+        },
+        {
+            "id": 754,
+            "area": {
+                "id": 2195,
+                "name": "Russia"
+            },
+            "name": "FK Spartak Moskva",
+            "shortName": "Spartak Moskva",
+            "tla": "SPA",
+            "crestUrl": null,
+            "address": "Krasnopresnenskaja naberezhnaja, dom 10 str. 4 Moskva 123100",
+            "phone": "+7 (495) 6461924",
+            "website": "http://www.spartak.com",
+            "email": "spartak@spartak.com",
+            "founded": 1922,
+            "clubColors": "Red / White",
+            "venue": "Otkrytie Arena",
+            "lastUpdated": "2018-10-15T15:09:35Z"
+        },
+        {
+            "id": 755,
+            "area": {
+                "id": 2058,
+                "name": "Croatia"
+            },
+            "name": "GNK Dinamo Zagreb",
+            "shortName": "Dinamo Zagreb",
+            "tla": "DIN",
+            "crestUrl": "http://www.gnkdinamo.hr/Content/Images/main-logo.png",
+            "address": "Maksimirska 128 Zagreb 10000",
+            "phone": "+385 (01) 2386111",
+            "website": "http://gnkdinamo.hr",
+            "email": "dinamo@gnkdinamo.hr",
+            "founded": 1903,
+            "clubColors": "Blue / White",
+            "venue": "Stadion Maksimir",
+            "lastUpdated": "2018-10-15T15:09:36Z"
+        },
+        {
+            "id": 842,
+            "area": {
+                "id": 2253,
+                "name": "Ukraine"
+            },
+            "name": "FK Dynamo Kyiv",
+            "shortName": "Dynamo Kyiv",
+            "tla": "DYN",
+            "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/FC_Dynamo_Kyiv_logo.png",
+            "address": "vul. Grushevskogo, 3 Kyïv 01001",
+            "phone": "+380 (044) 5970008",
+            "website": "http://www.fcdynamo.kiev.ua",
+            "email": "semenenko@goal.com.ua",
+            "founded": 1927,
+            "clubColors": "White / Blue",
+            "venue": "NSK Olimpijs'kyj",
+            "lastUpdated": "2018-10-15T15:09:45Z"
+        },
+        {
+            "id": 851,
+            "area": {
+                "id": 2023,
+                "name": "Belgium"
+            },
+            "name": "Club Brugge KV",
+            "shortName": "Club Brugge",
+            "tla": "BRU",
+            "crestUrl": null,
+            "address": "Olympialaan 74 Brugge 8200",
+            "phone": "+32 (50) 402121",
+            "website": "http://www.clubbrugge.be",
+            "email": "info@clubbrugge.be",
+            "founded": 1894,
+            "clubColors": "Blue / Black",
+            "venue": "Jan Breydelstadion",
+            "lastUpdated": "2018-10-15T15:09:45Z"
+        },
+        {
+            "id": 889,
+            "area": {
+                "id": 2173,
+                "name": "Norway"
+            },
+            "name": "Rosenborg BK",
+            "shortName": "Rosenborg",
+            "tla": "RBK",
+            "crestUrl": "",
+            "address": "Postboks 6390, Sluppen Trondheim 7492",
+            "phone": "+47 (73) 822100",
+            "website": "http://www.rbk.no",
+            "email": "info@rbk.no",
+            "founded": 1917,
+            "clubColors": "Black / White",
+            "venue": "Abrahallen",
+            "lastUpdated": "2018-10-15T15:09:46Z"
+        },
+        {
+            "id": 930,
+            "area": {
+                "id": 2062,
+                "name": "Czech Republic"
+            },
+            "name": "SK Slavia Praha",
+            "shortName": "Slavia Praha",
+            "tla": "SLP",
+            "crestUrl": "",
+            "address": "Vladivostocká 1460/2 Praha 10005",
+            "phone": "+420 (233) 081753",
+            "website": "http://www.slavia.cz",
+            "email": "slavia@slavia.cz",
+            "founded": 1892,
+            "clubColors": "Red / White",
+            "venue": "Eden Aréna",
+            "lastUpdated": "2018-10-15T15:09:47Z"
+        },
+        {
+            "id": 1105,
+            "area": {
+                "id": 2186,
+                "name": "Poland"
+            },
+            "name": "Legia Warszawa",
+            "shortName": "Legia",
+            "tla": "LEG",
+            "crestUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Legia_Warszawa.svg",
+            "address": "ul. Łazienkowska 3 Warszawa 00-449",
+            "phone": "+48 (22) 6284303",
+            "website": "http://www.legia.com",
+            "email": "info@legia.com",
+            "founded": 1916,
+            "clubColors": "Red / White / Green",
+            "venue": "Stadion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskiego",
+            "lastUpdated": "2018-10-15T15:09:54Z"
+        },
+        {
+            "id": 1866,
+            "area": {
+                "id": 2023,
+                "name": "Belgium"
+            },
+            "name": "Royal Standard de Liège",
+            "shortName": "Standard Liège",
+            "tla": "STA",
+            "crestUrl": null,
+            "address": "Rue de la Centrale, 2 Liège 4000",
+            "phone": "+32 (4) 2544207",
+            "website": "http://www.standard.be",
+            "email": "direction@standard.be",
+            "founded": 1898,
+            "clubColors": "Red / White",
+            "venue": "Stade Maurice Dufrasne",
+            "lastUpdated": "2018-10-15T15:10:27Z"
+        },
+        {
+            "id": 1870,
+            "area": {
+                "id": 2012,
+                "name": "Armenia"
+            },
+            "name": "Alashkert FC",
+            "shortName": "Alashkert",
+            "tla": "ALA",
+            "crestUrl": null,
+            "address": "25 Saryan Street Yerevan null",
+            "phone": "+374 (10) 520303",
+            "website": "http://www.fcalashkert.am",
+            "email": "info@fcalashkert.am",
+            "founded": 1990,
+            "clubColors": "Black / Yellow",
+            "venue": "Nairi",
+            "lastUpdated": "2018-10-15T15:10:28Z"
+        },
+        {
+            "id": 1871,
+            "area": {
+                "id": 2234,
+                "name": "Switzerland"
+            },
+            "name": "BSC Young Boys",
+            "shortName": "Young Boys",
+            "tla": "YOB",
+            "crestUrl": null,
+            "address": "Postfach 61 Bern 3000",
+            "phone": "+41 (31) 3448000",
+            "website": "http://www.bscyb.ch",
+            "email": "info@bscyb.ch",
+            "founded": 1898,
+            "clubColors": "Yellow / Black",
+            "venue": "Stade de Suisse Wankdorf Bern",
+            "lastUpdated": "2018-10-15T15:10:28Z"
+        },
+        {
+            "id": 1875,
+            "area": {
+                "id": 2136,
+                "name": "Luxembourg"
+            },
+            "name": "F91 Diddeleng",
+            "shortName": "F91 Dudelange",
+            "tla": "F91",
+            "crestUrl": null,
+            "address": "null Dudelange null",
+            "phone": null,
+            "website": "http://ww.f91.lu",
+            "email": null,
+            "founded": 1991,
+            "clubColors": null,
+            "venue": "Stade Jos Nosbaum",
+            "lastUpdated": "2018-10-15T15:10:29Z"
+        },
+        {
+            "id": 1877,
+            "area": {
+                "id": 2016,
+                "name": "Austria"
+            },
+            "name": "FC Red Bull Salzburg",
+            "shortName": "RB Salzburg",
+            "tla": "RBS",
+            "crestUrl": null,
+            "address": "Stadionstr. 2/3 Wals-Siezenheim 5071",
+            "phone": "+43 (662) 433332",
+            "website": "http://www.redbulls.com/de",
+            "email": "soccerrbs.office@redbulls.com",
+            "founded": 1933,
+            "clubColors": "White / Red",
+            "venue": "Red Bull Arena",
+            "lastUpdated": "2018-10-15T15:10:30Z"
+        },
+        {
+            "id": 1879,
+            "area": {
+                "id": 2006,
+                "name": "Andorra"
+            },
+            "name": "FC Santa Coloma",
+            "shortName": "Santa Coloma",
+            "tla": "FSC",
+            "crestUrl": null,
+            "address": "Av. Solà nº22 Santa Coloma AD500",
+            "phone": "+376 323222",
+            "website": "http://www.fclubsantacoloma.com",
+            "email": "info@fclubsantacoloma.com",
+            "founded": 1986,
+            "clubColors": "Red / Black / White",
+            "venue": "Estadi Comunal d'Andorra la Vella",
+            "lastUpdated": "2018-10-15T15:10:30Z"
+        },
+        {
+            "id": 1880,
+            "area": {
+                "id": 2151,
+                "name": "Moldova"
+            },
+            "name": "FC Sheriff Tiraspol",
+            "shortName": "Sheriff",
+            "tla": "SHE",
+            "crestUrl": null,
+            "address": "ul. K. Libnekhta 1/2 Tiraspol 3300",
+            "phone": "+373 (533) 363500",
+            "website": "http://www.fc-sheriff.com",
+            "email": "club@sc.sheriff.md",
+            "founded": 1997,
+            "clubColors": "Yellow / Black",
+            "venue": "Bolshaya Sportivnaya Arena",
+            "lastUpdated": "2018-10-15T15:10:30Z"
+        },
+        {
+            "id": 1881,
+            "area": {
+                "id": 2062,
+                "name": "Czech Republic"
+            },
+            "name": "FC Viktoria Plzeň",
+            "shortName": "Viktoria Plzeň",
+            "tla": "PLZ",
+            "crestUrl": null,
+            "address": "Štruncovy sady 3 Plzeň 30112",
+            "phone": "+420 (377) 221507",
+            "website": "http://www.fcviktoria.cz",
+            "email": "fcviktoria@fcviktoria.cz",
+            "founded": 1911,
+            "clubColors": "Red / Blue",
+            "venue": "Doosan Arena",
+            "lastUpdated": "2018-10-15T15:10:30Z"
+        },
+        {
+            "id": 1884,
+            "area": {
+                "id": 2119,
+                "name": "Kazakhstan"
+            },
+            "name": "Astana FK",
+            "shortName": "Astana FK",
+            "tla": "AST",
+            "crestUrl": null,
+            "address": "null Astana null",
+            "phone": null,
+            "website": "http://www.fca.kz",
+            "email": null,
+            "founded": 2009,
+            "clubColors": null,
+            "venue": "Astana Arena",
+            "lastUpdated": "2018-10-15T15:10:31Z"
+        },
+        {
+            "id": 1886,
+            "area": {
+                "id": 2002,
+                "name": "Albania"
+            },
+            "name": "FK Kukësi",
+            "shortName": "Kukësi",
+            "tla": "KUK",
+            "crestUrl": null,
+            "address": "Njesia Bashkiake Nr 5 Kukës null",
+            "phone": "+355 (4) 2267883",
+            "website": "http://www.fk-kukesi.al",
+            "email": null,
+            "founded": 1930,
+            "clubColors": "Blue / White",
+            "venue": "Stadiumi Zeqir Ymeri",
+            "lastUpdated": "2018-10-15T15:10:31Z"
+        },
+        {
+            "id": 1887,
+            "area": {
+                "id": 2253,
+                "name": "Ukraine"
+            },
+            "name": "FK Shakhtar Donetsk",
+            "shortName": "Shak Donetsk",
+            "tla": "SHD",
+            "crestUrl": null,
+            "address": "vul. Artema, 86-a Donets’k 83050",
+            "phone": "+380 (062) 3349906",
+            "website": "http://www.shakhtar.com",
+            "email": "feedback@shakhtar.com",
+            "founded": 1936,
+            "clubColors": "Orange / Black",
+            "venue": "Oblasny SportKomplex Metalist",
+            "lastUpdated": "2018-10-15T15:10:31Z"
+        },
+        {
+            "id": 1888,
+            "area": {
+                "id": 2129,
+                "name": "Latvia"
+            },
+            "name": "FK Spartaks Jūrmala",
+            "shortName": "Spartaks Jūr",
+            "tla": "SPA",
+            "crestUrl": null,
+            "address": "Gludas 18 Jūrmala 2016",
+            "phone": "+371 (292) 42281",
+            "website": "http://www.spartaksjurmala.com",
+            "email": "fcspartaks@inbox.lv",
+            "founded": 2007,
+            "clubColors": "Red / White",
+            "venue": "Slokas Stadionā",
+            "lastUpdated": "2018-10-15T15:10:31Z"
+        },
+        {
+            "id": 1891,
+            "area": {
+                "id": 2113,
+                "name": "Israel"
+            },
+            "name": "Hapoel Be'er Sheva FC",
+            "shortName": "Hapoel BS",
+            "tla": "HBS",
+            "crestUrl": null,
+            "address": "Yehuda Halevi Str. Beer Sheva 84142",
+            "phone": null,
+            "website": "http://hbsfc.co.il",
+            "email": "hapoelbsh@bezegint.net.il",
+            "founded": 1950,
+            "clubColors": "Red / White",
+            "venue": "Turner Stadium",
+            "lastUpdated": "2018-10-15T15:10:32Z"
+        },
+        {
+            "id": 1894,
+            "area": {
+                "id": 2030,
+                "name": "Bosnia and Herzegovina"
+            },
+            "name": "HŠK Zrinjski Mostar",
+            "shortName": "Zrinjski",
+            "tla": "ZRI",
+            "crestUrl": null,
+            "address": "Stjepana Radića 49 Mostar 88000",
+            "phone": "+387 (036) 321507",
+            "website": "http://www.hskzrinjski.ba",
+            "email": "info@hskzrinjski.ba",
+            "founded": 1905,
+            "clubColors": "White / Red / Black",
+            "venue": "Stadion Bijeli Brijeg",
+            "lastUpdated": "2018-10-15T15:10:32Z"
+        },
+        {
+            "id": 1899,
+            "area": {
+                "id": 2093,
+                "name": "Greece"
+            },
+            "name": "PAE AEK",
+            "shortName": "PAE AEK",
+            "tla": "AEK",
+            "crestUrl": null,
+            "address": "37 Kifisias Av. Athína 15123",
+            "phone": "+30 (210) 6121371",
+            "website": "http://www.aekfc.gr",
+            "email": "info@aekfc.gr",
+            "founded": 1924,
+            "clubColors": "Yellow / Black",
+            "venue": "Olympiako Stadio Spyros Louis",
+            "lastUpdated": "2018-10-15T15:10:33Z"
+        },
+        {
+            "id": 1900,
+            "area": {
+                "id": 2195,
+                "name": "Russia"
+            },
+            "name": "PFC CSKA Moskva",
+            "shortName": "CSKA Moskva",
+            "tla": "CSK",
+            "crestUrl": null,
+            "address": "Leningradsky Ave. 1-39 Moskva 125167",
+            "phone": "+7 (495) 6120780",
+            "website": "http://www.pfc-cska.com",
+            "email": "cska@pfc-cska.com",
+            "founded": 1911,
+            "clubColors": "Red / Blue",
+            "venue": "VEB Arena",
+            "lastUpdated": "2018-10-15T15:10:33Z"
+        },
+        {
+            "id": 1901,
+            "area": {
+                "id": 2035,
+                "name": "Bulgaria"
+            },
+            "name": "PFK Ludogorets 1945 Razgrad",
+            "shortName": "Ludgorets",
+            "tla": "LUD",
+            "crestUrl": null,
+            "address": "null Razgrad 7200",
+            "phone": "+359 (899) 141129",
+            "website": "http://www.ludogorets.com",
+            "email": "office@ludogorets.com",
+            "founded": 2000,
+            "clubColors": "Green / White",
+            "venue": "Ludogorets Arena",
+            "lastUpdated": "2018-10-15T15:10:33Z"
+        },
+        {
+            "id": 1902,
+            "area": {
+                "id": 2200,
+                "name": "San Marino"
+            },
+            "name": "SP La Fiorita",
+            "shortName": "La Fiorita",
+            "tla": "LAF",
+            "crestUrl": null,
+            "address": "Via del Dragone, 17 Montegiardino 47898",
+            "phone": null,
+            "website": "http://www.lafiorita.sm",
+            "email": "info@lafiorita.sm",
+            "founded": 1933,
+            "clubColors": null,
+            "venue": "Stadio Fonte Dell'Ovo",
+            "lastUpdated": "2018-10-15T15:10:33Z"
+        },
+        {
+            "id": 1903,
+            "area": {
+                "id": 2187,
+                "name": "Portugal"
+            },
+            "name": "Sport Lisboa e Benfica",
+            "shortName": "Benfica Lisboa",
+            "tla": "BEN",
+            "crestUrl": null,
+            "address": "Av. General Norton de Matos 1500, Apartado Nº 4100 Lisboa 1501-805",
+            "phone": "+351 (021) 7219558",
+            "website": "http://www.slbenfica.pt",
+            "email": "sec.geral@slbenfica.pt",
+            "founded": 1904,
+            "clubColors": "Red / White",
+            "venue": "Estádio do Sport Lisboa e Benfica",
+            "lastUpdated": "2018-10-15T15:10:34Z"
+        },
+        {
+            "id": 1904,
+            "area": {
+                "id": 2264,
+                "name": "Wales"
+            },
+            "name": "The New Saints FC",
+            "shortName": "The New Saints",
+            "tla": "TNS",
+            "crestUrl": null,
+            "address": "The Venue, Park Hall Oswestry SY11 4AS",
+            "phone": "+44 (1691) 684840",
+            "website": "http://www.tnsfc.co.uk",
+            "email": "ian.williams@tnsfc.co.uk",
+            "founded": 1959,
+            "clubColors": "Green / White",
+            "venue": "Park Hall Stadium",
+            "lastUpdated": "2018-10-15T15:10:34Z"
+        },
+        {
+            "id": 1905,
+            "area": {
+                "id": 2078,
+                "name": "Faroe Islands"
+            },
+            "name": "Víkingur Gøta",
+            "shortName": "Víkingur Gøta",
+            "tla": "VIK",
+            "crestUrl": null,
+            "address": "Postrúm 58 Norðragøta 520",
+            "phone": "+298 443222",
+            "website": "http://www.vikingur.fo",
+            "email": "vikingur@vikingur.fo",
+            "founded": 2008,
+            "clubColors": "Sky Blue / Black",
+            "venue": "Sarpugerði",
+            "lastUpdated": "2018-10-15T15:10:35Z"
+        },
+        {
+            "id": 2021,
+            "area": {
+                "id": 2016,
+                "name": "Austria"
+            },
+            "name": "SK Sturm Graz",
+            "shortName": "Sturm Graz",
+            "tla": "STU",
+            "crestUrl": null,
+            "address": "Sternäckerweg 118 Graz 8042",
+            "phone": "+43 (316) 7717710",
+            "website": "http://www.sksturm.at",
+            "email": "office@sksturm.at",
+            "founded": 1909,
+            "clubColors": "Black / White",
+            "venue": "Merkur Arena",
+            "lastUpdated": "2018-10-15T15:10:53Z"
+        },
+        {
+            "id": 4485,
+            "area": {
+                "id": 2065,
+                "name": "Denmark"
+            },
+            "name": "FC Midtjylland",
+            "shortName": "Midtjylland",
+            "tla": "MID",
+            "crestUrl": null,
+            "address": "Kaj Zartows Vej 5, Postboks 287 Herning 7400",
+            "phone": "+45 (96) 271040",
+            "website": "http://www.fcm.dk",
+            "email": "fcmidtjylland@fc-mj.dk",
+            "founded": 1999,
+            "clubColors": "Black / Red",
+            "venue": "MCH Arena",
+            "lastUpdated": "2018-10-15T15:14:11Z"
+        },
+        {
+            "id": 5100,
+            "area": {
+                "id": 2075,
+                "name": "Estonia"
+            },
+            "name": "FC Flora",
+            "shortName": "Flora",
+            "tla": "FLO",
+            "crestUrl": null,
+            "address": "Asula 4c Tallinn 11312",
+            "phone": "+372 (627) 9940",
+            "website": "http://www.fcflora.ee",
+            "email": "fcflora@fcflora.ee",
+            "founded": 1990,
+            "clubColors": "Green / White",
+            "venue": "Sportland Arena",
+            "lastUpdated": "2018-10-15T15:14:46Z"
+        },
+        {
+            "id": 5123,
+            "area": {
+                "id": 2080,
+                "name": "Finland"
+            },
+            "name": "HJK",
+            "shortName": "HJK",
+            "tla": "HJK",
+            "crestUrl": null,
+            "address": "Urheilukatu 5 Helsinki 00250",
+            "phone": "+358 (9) 74216600",
+            "website": "http://www.hjk.fi",
+            "email": "hjk@hjk.fi",
+            "founded": 1907,
+            "clubColors": "Blue / White",
+            "venue": "Telia 5G -areena",
+            "lastUpdated": "2018-10-15T15:14:50Z"
+        },
+        {
+            "id": 5455,
+            "area": {
+                "id": 2195,
+                "name": "Russia"
+            },
+            "name": "FK Lokomotiv Moskva",
+            "shortName": "Lok Moskva",
+            "tla": "LOK",
+            "crestUrl": null,
+            "address": "Bolshaya Cherkizovskaya, 125 А Moskva 107553",
+            "phone": "+7 (495) 1619704",
+            "website": "http://www.fclm.ru",
+            "email": "info@fclm.ru",
+            "founded": 1923,
+            "clubColors": "Red / Green / White",
+            "venue": "RZD Arena",
+            "lastUpdated": "2018-10-15T15:15:47Z"
+        },
+        {
+            "id": 5515,
+            "area": {
+                "id": 2194,
+                "name": "Romania"
+            },
+            "name": "FC CFR 1907 Cluj",
+            "shortName": "CFR 1907 Cluj",
+            "tla": "CLU",
+            "crestUrl": null,
+            "address": "Str. Romulus Vuia, nr. 23 Cluj-Napoca 400214",
+            "phone": "+40 (264) 598831",
+            "website": "http://www.cfr1907.ro",
+            "email": "club@cfr-ecomax.ro",
+            "founded": 1907,
+            "clubColors": "Claret / White",
+            "venue": "Stadionul Dr. Constantin Rădulescu",
+            "lastUpdated": "2018-10-15T15:15:55Z"
+        },
+        {
+            "id": 5520,
+            "area": {
+                "id": 2192,
+                "name": "Republic of Ireland"
+            },
+            "name": "Cork City FC",
+            "shortName": "Cork City FC",
+            "tla": "COC",
+            "crestUrl": null,
+            "address": "Curragh Road, Turner’s Cross Cork null",
+            "phone": "+353 (21) 4345574",
+            "website": "http://www.corkcityfc.ie",
+            "email": "info@corkcityfc.net",
+            "founded": 1912,
+            "clubColors": "Green / White",
+            "venue": "Turner's Cross",
+            "lastUpdated": "2018-10-15T15:15:55Z"
+        },
+        {
+            "id": 5740,
+            "area": {
+                "id": 2171,
+                "name": "Northern Ireland"
+            },
+            "name": "Crusaders FC",
+            "shortName": "Crusaders",
+            "tla": "CRU",
+            "crestUrl": null,
+            "address": "Seaview, Shore Road Belfast BT15 3QG",
+            "phone": "+44 (02890) 370777",
+            "website": "http://www.crusadersfc.com",
+            "email": "ncrues@aol.com",
+            "founded": 1898,
+            "clubColors": "Red / Black",
+            "venue": "Seaview",
+            "lastUpdated": "2018-10-15T15:16:32Z"
+        },
+        {
+            "id": 5813,
+            "area": {
+                "id": 2143,
+                "name": "Malta"
+            },
+            "name": "Valletta FC",
+            "shortName": "Valletta",
+            "tla": "VAL",
+            "crestUrl": null,
+            "address": "126, St Lucia Street Valletta 11832",
+            "phone": "+356 (21) 224939",
+            "website": "http://www.vallettafc.net",
+            "email": "info@vallettafc.net",
+            "founded": 1909,
+            "clubColors": "White / Red",
+            "venue": "Ta'Qali National Stadium",
+            "lastUpdated": "2018-10-15T15:16:42Z"
+        },
+        {
+            "id": 5819,
+            "area": {
+                "id": 2135,
+                "name": "Lithuania"
+            },
+            "name": "FK Sūduva Marijampolė",
+            "shortName": "FK Sūduva",
+            "tla": "SUD",
+            "crestUrl": null,
+            "address": "P. Armino 27 Marijampolė 68290",
+            "phone": "+370 (343) 91065",
+            "website": "http://www.fksuduva.lt",
+            "email": "klubas@fksuduva.lt",
+            "founded": 1942,
+            "clubColors": "Red / White",
+            "venue": "Marijampolės sporto centro stadione",
+            "lastUpdated": "2018-10-15T15:16:43Z"
+        },
+        {
+            "id": 5945,
+            "area": {
+                "id": 2107,
+                "name": "Iceland"
+            },
+            "name": "KF Valur Reykjavík",
+            "shortName": "Valur",
+            "tla": "VAL",
+            "crestUrl": null,
+            "address": "Laufásvegi, Hlíðarendi Reykjavík 101",
+            "phone": "+354 (414) 8005",
+            "website": "http://www.valur.is",
+            "email": "valur@valur.is",
+            "founded": 1911,
+            "clubColors": "Red / White",
+            "venue": "Vodafonevöllurinn",
+            "lastUpdated": "2018-10-15T15:16:59Z"
+        },
+        {
+            "id": 5961,
+            "area": {
+                "id": 2106,
+                "name": "Hungary"
+            },
+            "name": "MOL Vidi FC",
+            "shortName": "Videoton",
+            "tla": "VID",
+            "crestUrl": null,
+            "address": "Csíkvári út 10 Székesfehérvár 8000",
+            "phone": "+36 (22) 379493",
+            "website": "http://www.vidi.hu",
+            "email": "titkarsag@fcfehervar.hu",
+            "founded": 1941,
+            "clubColors": "Red / Blue",
+            "venue": "Puskás Akadémia Pancho Aréna",
+            "lastUpdated": "2018-11-05T02:18:07Z"
+        },
+        {
+            "id": 6146,
+            "area": {
+                "id": 2093,
+                "name": "Greece"
+            },
+            "name": "PAOK FC",
+            "shortName": "PAOK FC",
+            "tla": "PAO",
+            "crestUrl": null,
+            "address": "Mikras Asias, Toumba’s Stadium Thessaloniki null",
+            "phone": "+30 (2310) 954050",
+            "website": "http://www.paokfc.gr",
+            "email": "fbadvisor@paokfc.gr",
+            "founded": 1926,
+            "clubColors": "Black / White",
+            "venue": "Stadio Toumbas",
+            "lastUpdated": "2018-10-15T15:17:26Z"
+        },
+        {
+            "id": 7281,
+            "area": {
+                "id": 2090,
+                "name": "Gibraltar"
+            },
+            "name": "Lincoln Red Imps FC",
+            "shortName": "Lincoln",
+            "tla": "LIN",
+            "crestUrl": null,
+            "address": "64 Red Sands House, PO Box 1411 Gibraltar null",
+            "phone": "+350 54005985",
+            "website": "http://www.lincolnredimpsfc.com",
+            "email": "lincolnredimps@hotmail.com",
+            "founded": 1976,
+            "clubColors": "White / Red",
+            "venue": "Victoria Stadium",
+            "lastUpdated": "2018-10-15T15:19:41Z"
+        },
+        {
+            "id": 7282,
+            "area": {
+                "id": 2124,
+                "name": "Kosovo"
+            },
+            "name": "Drita KF Gjilan",
+            "shortName": "Drita Gjilan",
+            "tla": "DGJ",
+            "crestUrl": null,
+            "address": "null Gjilan null",
+            "phone": null,
+            "website": "https://dritafc.com/",
+            "email": null,
+            "founded": 1947,
+            "clubColors": "Blue / White",
+            "venue": "Stadiumi i Qytetit",
+            "lastUpdated": "2018-10-15T15:19:41Z"
+        },
+        {
+            "id": 7283,
+            "area": {
+                "id": 2206,
+                "name": "Serbia"
+            },
+            "name": "FK Crvena Zvezda",
+            "shortName": "Crvena Zvedza",
+            "tla": "CRV",
+            "crestUrl": null,
+            "address": "Ljutice Bogdana 1a Beograd 11000",
+            "phone": "+381 (11) 3672060",
+            "website": "http://www.crvenazvezdafk.com",
+            "email": "office@crvenazvezdafk.com",
+            "founded": 1945,
+            "clubColors": "Red / White",
+            "venue": "Stadion Rajko Mitić",
+            "lastUpdated": "2018-10-15T15:19:41Z"
+        },
+        {
+            "id": 7284,
+            "area": {
+                "id": 2154,
+                "name": "Montenegro"
+            },
+            "name": "FK Sutjeska Nikšić",
+            "shortName": "Sutjeska Nik",
+            "tla": "SUT",
+            "crestUrl": null,
+            "address": "ul. Dragovica Luka bb Nikšić 81400",
+            "phone": "+382 (040) 246438",
+            "website": "http://www.fksutjeska.me",
+            "email": "fcsutjeska@cg.yu",
+            "founded": 1927,
+            "clubColors": "Blue / White",
+            "venue": "Stadion Kraj Bistrice",
+            "lastUpdated": "2018-10-15T15:19:41Z"
+        },
+        {
+            "id": 7285,
+            "area": {
+                "id": 2083,
+                "name": "FYR Macedonia"
+            },
+            "name": "KF Shkëndija 79",
+            "shortName": "Shkëndija 79",
+            "tla": "SHK",
+            "crestUrl": null,
+            "address": "ul. Blagoya Toska Tetovo 1200",
+            "phone": "+389 (443) 53670",
+            "website": "http://www.kfshkendija.com/",
+            "email": "kfshkendija@yahoo.com",
+            "founded": 1979,
+            "clubColors": "Black / Red",
+            "venue": "Ecolog Arena",
+            "lastUpdated": "2018-10-15T15:19:41Z"
+        },
+        {
+            "id": 7286,
+            "area": {
+                "id": 2087,
+                "name": "Georgia"
+            },
+            "name": "FC Torpedo Kutaisi",
+            "shortName": "Torp Kutaisi",
+            "tla": "TKU",
+            "crestUrl": null,
+            "address": "Khorava Street 1 Kutaisi 4600",
+            "phone": "+995 (431) 262787",
+            "website": "http://www.fctorpedo.ge",
+            "email": "info@fctorpedo.ge",
+            "founded": 1946,
+            "clubColors": "Yellow / Black",
+            "venue": "Ramaz Shengelias Sakhelobis Stadioni",
+            "lastUpdated": "2018-10-15T15:19:42Z"
+        },
+        {
+            "id": 7287,
+            "area": {
+                "id": 2215,
+                "name": "Slovenia"
+            },
+            "name": "NK Olimpija Ljubljana",
+            "shortName": "Olimpija Ljubl",
+            "tla": "OLI",
+            "crestUrl": null,
+            "address": "Dunajska cesta 159 Ljubljana 1000",
+            "phone": "+386 (1) 4310144",
+            "website": "http://www.nkolimpija.si",
+            "email": "info@nkolimpija.si",
+            "founded": 1911,
+            "clubColors": "Green / White",
+            "venue": "Stadion Stožice",
+            "lastUpdated": "2018-10-15T15:19:42Z"
+        },
+        {
+            "id": 7288,
+            "area": {
+                "id": 2214,
+                "name": "Slovakia"
+            },
+            "name": "FC Spartak Trnava",
+            "shortName": "Spartak Trnava",
+            "tla": "TRN",
+            "crestUrl": null,
+            "address": "Koniarekova 19 Trnava 91721",
+            "phone": "+421 (33) 5503804",
+            "website": "http://www.spartak.sk",
+            "email": "fcspartak@slovanet.sk",
+            "founded": 1923,
+            "clubColors": "Red / Black",
+            "venue": "City Arena Trnava",
+            "lastUpdated": "2018-10-15T15:19:42Z"
+        }
+    ]
+}

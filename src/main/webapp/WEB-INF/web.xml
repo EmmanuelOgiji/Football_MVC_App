@@ -1,0 +1,38 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+<web-app>
+  <display-name>Pet_WebAApp</display-name>
+  <servlet>
+    <servlet-name>HelloServlet</servlet-name>
+    <servlet-class>org.ECSDigital.EmmanuelOgiji.Servlets.HelloServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>Competitions</servlet-name>
+    <servlet-class>org.ECSDigital.EmmanuelOgiji.Servlets.CompetitionServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>Teams</servlet-name>
+    <servlet-class>org.ECSDigital.EmmanuelOgiji.Servlets.TeamServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>Profiles</servlet-name>
+    <servlet-class>org.ECSDigital.EmmanuelOgiji.Servlets.TeamProfileServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>HelloServlet</servlet-name>
+    <url-pattern>/HelloServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Competitions</servlet-name>
+    <url-pattern>/Competitions</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Teams</servlet-name>
+    <url-pattern>/Teams</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Profiles</servlet-name>
+    <url-pattern>/Profiles</url-pattern>
+  </servlet-mapping>
+</web-app>
