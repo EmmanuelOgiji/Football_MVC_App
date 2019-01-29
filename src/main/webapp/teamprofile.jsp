@@ -40,8 +40,8 @@
                    </tr>
                    <c:forEach items="${Squad}" var="item" >
                       <tr>
-                         <td id= "Player.name">${item.get("name")}</td>
-                         <td id= "Player.number">${item.get("shirtNumber")}</td>
+                         <td id= "${item.get("name")}.name">${item.get("name")}</td>
+                         <td id= "${item.get("name")}.number">${item.get("shirtNumber")}</td>
                       </tr>
                    </c:forEach>
                 </table>
