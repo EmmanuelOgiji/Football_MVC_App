@@ -11,7 +11,7 @@
  <body>
 
     <h3>Teams Profile</h3>
-        <table align="centre" border="1" cellpadding="5" cellspacing="1" >
+        <table id= "Team Profile" align="centre" border="1" cellpadding="5" cellspacing="1" >
            <tr>
               <th>Team name</th>
               <th>Home Stadium</th>
@@ -22,13 +22,13 @@
               <th>Founded</th>
            </tr>
               <tr>
-                 <td>${TeamProfile.get("name")}</td>
-                 <td>${TeamProfile.get("venue")}</td>
-                 <td>${TeamProfile.get("website")}</td>
-                 <td>${TeamProfile.get("email")}</td>
-                 <td>${TeamProfile.get("phone")}</td>
-                 <td>${TeamProfile.get("address")}</td>
-                 <td>${TeamProfile.get("founded")}</td>
+                 <td id= "Team.name">${TeamProfile.get("name")}</td>
+                 <td id= "Team.venue">${TeamProfile.get("venue")}</td>
+                 <td id= "Team.website">${TeamProfile.get("website")}</td>
+                 <td id= "Team.email">${TeamProfile.get("email")}</td>
+                 <td id= "Team.phone">${TeamProfile.get("phone")}</td>
+                 <td id= "Team.address">${TeamProfile.get("address")}</td>
+                 <td id= "Team.founded">${TeamProfile.get("founded")}</td>
               </tr>
         </table>
         <br>
@@ -40,8 +40,8 @@
                    </tr>
                    <c:forEach items="${Squad}" var="item" >
                       <tr>
-                         <td>${item.get("name")}</td>
-                         <td>${item.get("shirtNumber")}</td>
+                         <td id= "Player.name">${item.get("name")}</td>
+                         <td id= "Player.number">${item.get("shirtNumber")}</td>
                       </tr>
                    </c:forEach>
                 </table>

@@ -1,7 +1,5 @@
-/Users/emmanuel.pius-ogiji/Documents/MVC_App/src/main/java/org/ECSDigital/EmmanuelOgiji/Servlets/CompetitionServlet.java
-/Users/emmanuel.pius-ogiji/Documents/MVC_App/src/main/java/org/ECSDigital/EmmanuelOgiji/Servlets/HelloServlet.java
-/Users/emmanuel.pius-ogiji/Documents/MVC_App/src/main/java/org/ECSDigital/EmmanuelOgiji/Model/DBAccessor.java
-/Users/emmanuel.pius-ogiji/Documents/MVC_App/src/main/java/org/ECSDigital/EmmanuelOgiji/Resources.java
-/Users/emmanuel.pius-ogiji/Documents/MVC_App/src/main/java/org/ECSDigital/EmmanuelOgiji/Servlets/TeamServlet.java
-/Users/emmanuel.pius-ogiji/Documents/MVC_App/src/main/java/org/ECSDigital/EmmanuelOgiji/ReusableMethods.java
-/Users/emmanuel.pius-ogiji/Documents/MVC_App/src/main/java/org/ECSDigital/EmmanuelOgiji/Servlets/TeamProfileServlet.java
+/Users/emmanuel.pius-ogiji/Documents/GitHub/Football_MVC_App/src/main/java/org/ECSDigital/EmmanuelOgiji/Model/DBAccessor.java
+/Users/emmanuel.pius-ogiji/Documents/GitHub/Football_MVC_App/src/main/java/org/ECSDigital/EmmanuelOgiji/Servlets/HelloServlet.java
+/Users/emmanuel.pius-ogiji/Documents/GitHub/Football_MVC_App/src/main/java/org/ECSDigital/EmmanuelOgiji/Servlets/CompetitionServlet.java
+/Users/emmanuel.pius-ogiji/Documents/GitHub/Football_MVC_App/src/main/java/org/ECSDigital/EmmanuelOgiji/Servlets/TeamProfileServlet.java
+/Users/emmanuel.pius-ogiji/Documents/GitHub/Football_MVC_App/src/main/java/org/ECSDigital/EmmanuelOgiji/Servlets/TeamServlet.java

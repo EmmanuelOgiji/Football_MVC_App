@@ -19,7 +19,7 @@
            </tr>
            <c:forEach items="${CompetitionList}" var="item" >
               <tr>
-                 <td><a href="Teams?CompCode=${item.get("code")}&CompID=${item.get("id")}">${item.get("name")}</a></td>
+                 <td><a id="${item.get("name")}" href="Teams?CompCode=${item.get("code")}&CompID=${item.get("id")}">${item.get("name")}</a></td>
               </tr>
            </c:forEach>
         </table>

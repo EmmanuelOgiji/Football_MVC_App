@@ -27,11 +27,20 @@ public class TeamProfileServlet extends HttpServlet {
     }
 
     public void doGet (HttpServletRequest httpServletRequest, HttpServletResponse httpServletResponse) throws ServletException, IOException {
-        BasicDBObject TeamProfile = (BasicDBObject) DBAccessor.getTeamProfile(httpServletRequest.getParameter("TeamID"));
-        BasicDBList Squad = (BasicDBList)TeamProfile.get("squad");
-        httpServletRequest.setAttribute("TeamProfile",TeamProfile);
-        httpServletRequest.setAttribute("Squad",Squad);
-        RequestDispatcher dispatcher = httpServletRequest.getServletContext().getRequestDispatcher("/teamprofile.jsp");
-        dispatcher.forward(httpServletRequest, httpServletResponse);
+        BasicDBObject TeamProfile=null;
+        BasicDBList Squad=null;
+        try {
+            TeamProfile = (BasicDBObject) DBAccessor.getTeamProfile(httpServletRequest.getParameter("TeamID"));
+            Squad = (BasicDBList) TeamProfile.get("squad");
+            httpServletRequest.setAttribute("TeamProfile",TeamProfile);
+            httpServletRequest.setAttribute("Squad",Squad);
+            RequestDispatcher dispatcher = httpServletRequest.getServletContext().getRequestDispatcher("/teamprofile.jsp");
+            dispatcher.forward(httpServletRequest, httpServletResponse);
+        }
+        catch (NullPointerException e){
+            RequestDispatcher dispatcher = httpServletRequest.getServletContext().getRequestDispatcher("/Unavailable.jsp");
+            dispatcher.forward(httpServletRequest, httpServletResponse);
+        }
+
     }
 }
