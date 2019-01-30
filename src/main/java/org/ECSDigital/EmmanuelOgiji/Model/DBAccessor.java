@@ -21,7 +21,7 @@ public class DBAccessor {
     }
 
     public static DB connecttoDB(){
-        MongoClient mongoClient = new MongoClient(new MongoClientURI("mongodb://localhost:27017"));
+        MongoClient mongoClient = new MongoClient(new MongoClientURI(System.getenv("DATABASE_URL")));
         DB database = mongoClient.getDB("Football_WebApp");
         return database;
     }

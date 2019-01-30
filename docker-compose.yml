@@ -1,0 +1,50 @@
+version: '3.1'
+
+services:
+
+  mongo:
+    image: mongo
+    restart: always
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: example
+    volumes:
+      - ./Database_backup/29-01-19/Football_WebApp:/database_start
+
+  mongo-setup:
+    image: mongo
+    restart: always
+    command: mongorestore --host mongo --port=27017 -u root -p example --authenticationDatabase admin --db=Football_WebApp /database_start
+    ports:
+      - 8081:8081
+    environment:
+      ME_CONFIG_MONGODB_ADMINUSERNAME: root
+      ME_CONFIG_MONGODB_ADMINPASSWORD: example
+      ME_CONFIG_MONGODB_SERVER: "mongo"
+      ME_CONFIG_MONGODB_ENABLE_ADMIN: "true"
+      ME_CONFIG_BASICAUTH_USERNAME: ""
+      ME_CONFIG_BASICAUTH_PASSWORD: ""
+    volumes:
+      - ./Database_backup/29-01-19/Football_WebApp:/database_start
+    links:
+      - "mongo"
+    
+
+  webapp:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./Database_backup/29-01-19/Football_WebApp:/database_start
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: example
+      DATABASE_URL: mongodb://root:example@mongo:27017
+    links:
+      - "mongo" 
+
+
+    
+    

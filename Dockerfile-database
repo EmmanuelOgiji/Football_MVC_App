@@ -1,0 +1,4 @@
+FROM mvertes/alpine-mongo
+
+COPY /Database_backup/29-01-19/Football_WebApp/. /Database_backup/29-01-19/Football_WebApp
+CMD [  "mongod", "--bind_ip", "0.0.0.0", "&&", "mongorestore", "--db=Football_WebApp", "--drop", "/Database_backup/29-01-19/Football_WebApp" ]
