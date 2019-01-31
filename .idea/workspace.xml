@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dcde2448-a4ec-4cb2-8bde-e0bb1a73d480" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/ECSDigital/EmmanuelOgiji/Model/DBAccessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ECSDigital/EmmanuelOgiji/Model/DBAccessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ECSDigital/EmmanuelOgiji/Model/DBAccessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ECSDigital/EmmanuelOgiji/Model/DBAccessor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ECSDigital/EmmanuelOgiji/Servlets/CompetitionServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ECSDigital/EmmanuelOgiji/Servlets/CompetitionServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ECSDigital/EmmanuelOgiji/Servlets/TeamProfileServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ECSDigital/EmmanuelOgiji/Servlets/TeamProfileServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/ECSDigital/EmmanuelOgiji/Servlets/TeamServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/ECSDigital/EmmanuelOgiji/Servlets/TeamServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tomcat/logs/access_log.2019-01-29" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat/logs/access_log.2019-01-29" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/teamprofile_jsp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/teamprofile_jsp.java" beforeDir="false" />
-    </list>
+    <list default="true" id="dcde2448-a4ec-4cb2-8bde-e0bb1a73d480" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -90,8 +80,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/ECSDigital/EmmanuelOgiji/Model/DBAccessor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="23" column="98" lean-forward="true" selection-start-line="23" selection-start-column="98" selection-end-line="23" selection-end-column="98" />
+            <state relative-caret-position="267">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -209,7 +199,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548866820805" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548866881995" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -267,8 +257,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="967" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1680" height="962" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25579977" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -279,7 +268,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.328" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.328" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -414,8 +403,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/ECSDigital/EmmanuelOgiji/Model/DBAccessor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="23" column="98" lean-forward="true" selection-start-line="23" selection-start-column="98" selection-end-line="23" selection-end-column="98" />
+        <state relative-caret-position="267">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
